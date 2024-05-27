@@ -1,14 +1,14 @@
 [
   {
     "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
+    "name": "Bedwars Player Hud",
+    "description": "A mod that adds killfeed & player list in Hypixel Bedwars",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "https://github.com/romangraef/Forge1.8.9Template/",
+    "url": "https://github.com/kuylar/bwplayerhud/",
     "updateUrl": "",
     "authorList": [
-      "You"
+      "kuylar"
     ],
     "credits": "",
     "logoFile": "",
